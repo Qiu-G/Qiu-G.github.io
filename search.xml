@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>小小文章</title>
-    <url>/2019/12/20/%E5%B0%8F%E5%B0%8F%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>这是小小文章的内容</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每次重新打包需要执行的命令</title>
+    <title>publish instructions</title>
     <url>/2019/12/20/hello-world/</url>
     <content><![CDATA[<p>Welcome！</p>
-<h2 id="第一"><a href="#第一" class="headerlink" title="第一"></a>第一</h2><h3 id="清一哈子缓存"><a href="#清一哈子缓存" class="headerlink" title="清一哈子缓存"></a>清一哈子缓存</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure>
+<h2 id="one"><a href="#one" class="headerlink" title="one"></a>one</h2><h3 id="clean-cache"><a href="#clean-cache" class="headerlink" title="clean cache"></a>clean cache</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://qiu-g.github.io">Writing</a></p>
-<h2 id="第二"><a href="#第二" class="headerlink" title="第二"></a>第二</h2><h3 id="不晓得干啥子的"><a href="#不晓得干啥子的" class="headerlink" title="不晓得干啥子的"></a>不晓得干啥子的</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
+<h2 id="two"><a href="#two" class="headerlink" title="two"></a>two</h2><h3 id="update"><a href="#update" class="headerlink" title="update"></a>update</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://qiu-g.github.io">Writing</a></p>
-<h2 id="第三"><a href="#第三" class="headerlink" title="第三"></a>第三</h2><h3 id="这个是发布"><a href="#这个是发布" class="headerlink" title="这个是发布"></a>这个是发布</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
+<h2 id="three"><a href="#three" class="headerlink" title="three"></a>three</h2><h3 id="publish"><a href="#publish" class="headerlink" title="publish"></a>publish</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://qiu-g.github.io">Writing</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>签名</title>
+    <url>/2019/06/01/autograph/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>每一个将想法变成现实的人，都值得称赞和学习</tag>
+      </tags>
   </entry>
 </search>
